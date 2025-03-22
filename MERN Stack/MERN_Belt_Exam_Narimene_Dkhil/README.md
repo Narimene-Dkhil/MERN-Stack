@@ -1,4 +1,5 @@
 🥘 Speedy Meals
+
 📌 Overview
 Speedy Meals is a web application designed to help users find inspiration for quick and delicious meals. Users can create, view, update, and delete meal recipes easily. The application ensures a smooth experience with form validation and easy navigation.
 
